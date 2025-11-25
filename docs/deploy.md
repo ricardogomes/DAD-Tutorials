@@ -104,7 +104,7 @@ docker push registry-172.22.21.115.sslip.io/{{group}}/api:v{{version}}
 Build the Vue Image (replace group with your group id - dad-group-X and the version with the current version - 1.0.0):
 
 ```bash
-docker build -t registry-172.22.21.115.sslip.io/{{group}}/web:v{{version}} --platform linux/amd64 -f ./deployment/DockerfileVue ./vue
+docker build -t registry-172.22.21.115.sslip.io/{{group}}/web:v{{version}} --platform linux/amd64 -f ./deployment/DockerfileVue ./frontend
 ```
 
 Push the Vue Image (replace group with your group id - dad-group-X and the version with the current version - 1.0.0):
