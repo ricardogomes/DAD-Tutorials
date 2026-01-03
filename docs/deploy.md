@@ -53,8 +53,8 @@ VITE_WS_CONNECTION=ws://localhost:3000
 
 
 # .env.production
-VITE_API_DOMAIN=api-dad-group-X.172.22.21.253.sslip.io
-VITE_WS_CONNECTION=ws://ws-dad-group-X.172.22.21.253.sslip.io
+VITE_API_DOMAIN=api-dad-group-X-172.22.21.253.sslip.io
+VITE_WS_CONNECTION=ws://ws-dad-group-X-172.22.21.253.sslip.io
 ```
 
 ## Deploy the code
