@@ -1,4 +1,4 @@
-# Deploy DAD Project
+# Deploy DAD Project - TESTE
 
 **NOTE**: To run most of the command present in this tutorial we need to either be connected to our school network or use its [VPN](./vpn.md).
 
